@@ -1,0 +1,25 @@
+img{
+  width:100%;
+  display:inline-block;
+}
+
+
+
+body{
+  background-color:#dad6d3;
+}
+
+.caption{
+  min-height: 203px;
+  font-size: 18px;
+}
+.thumbnail{
+  padding: 10px;
+}
+
+P{
+  text-align: center;
+}
+
+
+  
