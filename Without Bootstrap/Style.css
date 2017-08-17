@@ -40,11 +40,13 @@ div.desc {
     padding: 15px;
 	text-align: left;
 	color: grey;
-	
-    
 }
 .align{
 	text-align: right;
+}
+.desc::first-letter {
+    color: #ff0000;
+	font-size: xx-large;
 }
 
 

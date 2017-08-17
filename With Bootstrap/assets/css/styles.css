@@ -3,8 +3,6 @@ img{
   display:inline-block;
 }
 
-
-
 body{
   background-color:#dad6d3;
 }
@@ -20,6 +18,18 @@ body{
 P{
   text-align: center;
 }
+
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+
+br{
+  text-align: right;
+}
+
+
+
 
 
   
